@@ -1,0 +1,2 @@
+# Derivative
+If you have bought MATLAB &amp; don't have the symbolic math toolbox, then you are free to use the repository as per the terms of the license under which it is released, to find out First Order Derivative &amp; Second order derivative at a specified point of your choice. The repository can also be used to find out partial derivatives of a quadratic equation at a specified point of your choice.
